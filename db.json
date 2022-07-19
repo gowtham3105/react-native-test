@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "name": "Miranda Garcia",
+      "email": "eget.volutpat@aol.net",
+      "city": "Worcester",
+      "phone": "0800 1111"
+    },
+    {
+      "name": "Ryder Abbott",
+      "email": "dolor@icloud.edu",
+      "city": "Wolfsberg",
+      "phone": "070 6841 4551"
+    },
+    {
+      "name": "Jameson Vaughan",
+      "email": "lectus.a@outlook.edu",
+      "city": "Pioneer",
+      "phone": "0800 767 3626"
+    },
+    {
+      "name": "Inga Stuart",
+      "email": "cursus.vestibulum@hotmail.couk",
+      "city": "Jiangsu",
+      "phone": "(025) 7664 4343"
+    },
+    {
+      "name": "Maile Mendoza",
+      "email": "ridiculus@aol.ca",
+      "city": "Belfast",
+      "phone": "(027) 7571 4422"
+    }
+  ]
 }
